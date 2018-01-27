@@ -366,8 +366,7 @@
 <v t="ekr.20100805171546.4412"><vh>Web pages</vh>
 <v t="ekr.20101112045055.5065"><vh>@url docs generated from plugin_catalog.py</vh></v>
 <v t="ekr.20131005214621.16088"><vh>Home page</vh>
-<v t="ekr.20100808060203.4273"
-expanded="ekr.20100808060203.4286,"><vh>@file index.html</vh></v>
+<v t="ekr.20100808060203.4273"><vh>@file index.html</vh></v>
 </v>
 <v t="ekr.20101115152915.4937"><vh>wikipedia entry</vh></v>
 </v>
@@ -1694,6 +1693,7 @@ expanded="ekr.20100808060203.4286,"><vh>@file index.html</vh></v>
 <v t="maphew.20171129131759.1"><vh>No python yet</vh></v>
 </v>
 <v t="ekr.20171204111545.1"><vh>update cheat sheet</vh></v>
+<v t="omlalala.20180127165808.1"><vh>does git find headline change</vh></v>
 </vnodes>
 <tnodes>
 <t tx="EKR.20040524104904.140">Leo stores options in **@settings trees**, outlines whose headline is @settings. When opening a .leo file, Leo looks for @settings trees not only in the outline being opened but also in various leoSettings.leo files. This scheme allows for the following kinds of settings:
@@ -24769,6 +24769,7 @@ Leo's Documentation Page
 `Leo's home page`_.
 
 </t>
+<t tx="omlalala.20180127165808.1"></t>
 <t tx="peckj.20130813123907.6841" str_ctime="1376412039.0" str_mtime="1376412039.0" str_atime="1376414164.0">Documenting new plugins is important for users to be able understand and use the features they add. To that effect, there are a few documentation steps that should not be overlooked.
 
 - Document the plugin thoroughly in the plugin's docstring. This allows the documentation to be accessed from the Plugins menu.
